@@ -1,4 +1,7 @@
 add a link to homebrew install instructions
 use a different font to make code stand out better
 git init is in the wrong place on the tutorial.  cannot set user.name to --local without init first.
+include a tip that "q" will exit a view in git
+there is a reference to an image file that is not provided.  you could create an image and provide a link to it for them  if you wanted.
+	"img_hello_world.jpg"
 
