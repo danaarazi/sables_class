@@ -1,0 +1,4 @@
+add a link to homebrew install instructions
+use a different font to make code stand out better
+git init is in the wrong place on the tutorial.  cannot set user.name to --local without init first.
+
