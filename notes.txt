@@ -6,4 +6,4 @@ there is a reference to an image file in the branches section. that is not provi
 	"img_hello_world.jpg"
 remote username is not supported anymore found a fix here
 	https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74
-
+Emphasize to stop at "Git Help"  I missed that part
