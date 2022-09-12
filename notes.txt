@@ -4,4 +4,6 @@ git init is in the wrong place on the tutorial.  cannot set user.name to --local
 include a tip that "q" will exit a view in git
 there is a reference to an image file in the branches section. that is not provided.  you could create an image and provide a link to it for them  if you wanted.
 	"img_hello_world.jpg"
+remote username is not supported anymore found a fix here
+	https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74
 
