@@ -9,3 +9,5 @@ it now includes steps for github
 Check out the notes.txt file for suggestions
  
  another change
+
+yet aother chage the stupid "N" is broken on this ew keyboard so it makes typig atyhing a pain i the ass.
